@@ -1,0 +1,205 @@
+{
+  "Mood/Emotion": {
+    "happiness": "HAPPINESS",
+    "joy": "HAPPINESS",
+    "energy": "HAPPINESS",
+    "vibrant": "HAPPINESS",
+    "impressed": "HAPPINESS",
+    "adventure": "ADVENTURE",
+    "adventurous": "ADVENTURE",
+    "advanture": "ADVENTURE",
+    "sightseeing": "ADVENTURE",
+    "sight seeing": "ADVENTURE",
+    "historic": "ADVENTURE",
+    "curiosity": "CURIOSITY",
+    "curiosty": "CURIOSITY",
+    "curosity": "CURIOSITY",
+    "curiousity": "CURIOSITY",
+    "wonder": "CURIOSITY",
+    "excitement": "EXCITEMENT",
+    "exitment": "EXCITEMENT",
+    "excited": "EXCITEMENT",
+    "excitement passion": "EXCITEMENT",
+    "romance": "ROMANCE",
+    "romantic": "ROMANCE",
+    "nostalgia": "NOSTALGIA",
+    "melancholy": "MELANCHOLY",
+    "awe": "AWE",
+    "amazement": "AWE",
+    "amazed": "AWE",
+    "majestic": "AWE",
+    "magical": "AWE",
+    "spiritual awe": "AWE",
+    "reverence": "AWE",
+    "respect": "AWE",
+    "humility": "AWE",
+    "calm": "CALM",
+    "calmness": "CALM",
+    "peace": "CALM",
+    "peaceful": "CALM",
+    "peacefulness": "CALM",
+    "serenity": "CALM",
+    "tranquility": "CALM",
+    "relaxing": "CALM",
+    "relaxed": "CALM",
+    "relaxation": "CALM",
+    "elegant": "CALM",
+    "curiosity awe": "CURIOSITY",
+    "reverence awe": "AWE",
+    "awe and adventure": "ADVENTURE"
+  },
+  "Season": {
+    "summer": "SUMMER",
+    "spring": "SPRING",
+    "winter": "WINTER",
+    "fall": "FALL",
+    "autumn": "FALL",
+    "not clear": "NOT CLEAR",
+    "clear": "NOT CLEAR"
+  },
+  "Time of Day": {
+    "morning": "MORNING",
+    "sunrise": "MORNING",
+    "afternoon": "AFTERNOON",
+    "noon": "AFTERNOON",
+    "daytime": "AFTERNOON",
+    "evening": "EVENING",
+    "evning": "EVENING",
+    "sunset": "EVENING",
+    "night": "EVENING",
+    "clear night": "EVENING",
+    "night sky": "EVENING",
+    "not clear": "NOT CLEAR",
+    "no clear": "NOT CLEAR"
+  },
+  "Weather": {
+    "sunny": "SUNNY",
+    "clear sunny": "SUNNY",
+    "partly cloudy sunny": "SUNNY",
+    "cloudy": "CLOUDY",
+    "partly cloudy": "CLOUDY",
+    "cloudy sunset": "CLOUDY",
+    "rainy": "RAINY",
+    "raniy": "RAINY",
+    "snowy": "SNOWY",
+    "windy": "WINDY",
+    "clear": "CLEAR",
+    "cold clear": "CLEAR",
+    "not clear": "NOT CLEAR",
+    "no clear": "NOT CLEAR",
+    "cold": "NOT CLEAR"
+  },
+
+  "Country": {
+    "usa": "UNITED STATES",
+    "united states": "UNITED STATES",
+    "united states of america": "UNITED STATES",
+    "united states usa": "UNITED STATES",
+    "california": "UNITED STATES",
+    "new york": "UNITED STATES",
+    "miami": "UNITED STATES",
+    "north pole alaska": "UNITED STATES",
+
+    "uk": "UNITED KINGDOM",
+    "united kingdom": "UNITED KINGDOM",
+    "england": "UNITED KINGDOM",
+    "scotland": "UNITED KINGDOM",
+    "wales": "UNITED KINGDOM",
+    "london": "UNITED KINGDOM",
+    "united kingdom scotland": "UNITED KINGDOM",
+
+    "uae": "UNITED ARAB EMIRATES",
+    "united arab emirates": "UNITED ARAB EMIRATES",
+
+    "turkey": "TURKEY",
+    "turkiye": "TURKEY",
+
+    "egypt": "EGYPT",
+    "eygpt": "EGYPT",
+    "eygypt": "EGYPT",
+
+    "netherlands": "NETHERLANDS",
+    "holland": "NETHERLANDS",
+    "the netherlands": "NETHERLANDS",
+
+    "paris": "FRANCE",
+    "france": "FRANCE",
+
+    "switzerland": "SWITZERLAND",
+    "interlaken": "SWITZERLAND",
+
+    "bali": "INDONESIA",
+    "bali indonesia": "INDONESIA",
+
+    "santorini": "GREECE",
+
+    "mecca": "SAUDI ARABIA",
+    "saudi arabia": "SAUDI ARABIA",
+    "suadi arabia": "SAUDI ARABIA",
+
+    "rapa nui": "CHILE",
+    "easter island": "CHILE",
+
+    "tokyo japan": "JAPAN",
+    "japan": "JAPAN"
+  },
+  
+
+  "Activity": {
+    "sightseeing": "SIGHTSEEING",
+    "tourism": "SIGHTSEEING",
+    "city tour": "SIGHTSEEING",
+    "heritage tourism": "SIGHTSEEING",
+    "landmark": "SIGHTSEEING",
+    "touring": "SIGHTSEEING",
+
+    "relaxing": "RELAXATION",
+    "relaxation": "RELAXATION",
+    "vacation": "RELAXATION",
+    "resort stay": "RELAXATION",
+    "meditation": "RELAXATION",
+
+    "hiking": "HIKING",
+    "mountain hiking": "HIKING",
+    "nature walk": "HIKING",
+    "trekking": "HIKING",
+
+    "exploring": "EXPLORATION",
+    "urban exploration": "EXPLORATION",
+    "nature exploration": "EXPLORATION",
+    "desert exploration": "EXPLORATION",
+
+    "walking": "WALKING",
+    "strolling": "WALKING",
+    "city walk": "WALKING",
+
+    "praying": "RELIGIOUS",
+    "worship": "RELIGIOUS",
+    "pilgrimage": "RELIGIOUS",
+    "spiritual visit": "RELIGIOUS",
+
+    "boating": "WATER_ACTIVITIES",
+    "boat tour": "WATER_ACTIVITIES",
+    "swimming": "WATER_ACTIVITIES",
+    "snorkeling": "WATER_ACTIVITIES",
+    "diving": "WATER_ACTIVITIES",
+    "canoeing": "WATER_ACTIVITIES",
+
+    "skiing": "WINTER_SPORTS",
+    "ice skating": "WINTER_SPORTS",
+    "snow activities": "WINTER_SPORTS",
+
+    "stadium": "SPORTS_EVENT",
+    "football": "SPORTS_EVENT",
+    "sports event": "SPORTS_EVENT",
+
+    "entertainment": "ENTERTAINMENT",
+    "festival": "ENTERTAINMENT",
+    "gaming": "ENTERTAINMENT",
+
+    "shopping": "SHOPPING"
+  }
+
+
+
+}
